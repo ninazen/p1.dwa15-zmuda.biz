@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
 
@@ -14,7 +14,7 @@
 <body>
 
 	<br><br><br><br><br>
-    <div class="large_text">
+    <div class="large_text	">
  	Welcome to P1.
  	</div>
 
