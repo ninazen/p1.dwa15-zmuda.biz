@@ -6,6 +6,8 @@
 	<!--Project 1 - Workflow setup and HTML/CSS-->
 	<title>CSCI E-15 P1</title>
 
+ 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />        
+
     <!-- CSS Files -->
     <link href="/css/styles.css" rel="stylesheet" type="text/css">
 
