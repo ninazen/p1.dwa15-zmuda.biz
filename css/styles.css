@@ -1,0 +1,26 @@
+/****************************************************************************
+ * styles.css
+ *
+ * CSCE E-15
+ * Project 1
+ *
+ * Global CSS
+ ***************************************************************************/
+
+.small_text 
+{
+    font-size:28px;
+    text-align:center;
+}
+
+.medium_text
+{
+    font-size:24px;
+    text-align:center;
+}
+
+.large_text 
+{
+    font-size:20px;
+    text-align:center;
+}

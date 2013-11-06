@@ -2,35 +2,43 @@
 <html>
 
 <head>
+
 	<!--Project 1 - Workflow setup and HTML/CSS-->
 	<title>CSCI E-15 P1</title>
 
-	<!--CSS styles-->
-	<style>
-		h1 {font-size:150%;}
-		h2 {font-size:180%;}
-		h3 {font-size:200%;}
-	</style>
+    <!-- CSS Files -->
+    <link href="/css/styles.css" rel="stylesheet" type="text/css">
+
 </head>
 
 <body>
-	<center>
+
 	<br><br><br><br><br>
-	<h1><p>Welcome to P1.</p></h1>
+    <div class="large_text">
+ 	Welcome to P1.
+ 	</div>
 
 		<!--Name-->
-		<h2><p>My name is Nina Zmuda.</p></h2>
+	    <p class="medium_text">
+		My name is Nina Zmuda.
+ 		</p>
 
 			<!--Short Bio-->
-			<h3><p>I am an extension student in CSCI E-15.<br>
+		    <p class="small_text">
+			I am an extension student in CSCI E-15.<br>
 			I currently live on the West Coast, by the ocean.<br>
-			I enjoy cooking, running and surfing the web.</p></h3>
+			I enjoy cooking, running and surfing the web.
+	 		</p>
 
 		<!--Text Editor-->
-		<h2><p>This was done in the Sublime Text editor.</p></h2>
- 
-	<h1><p>Thank you for visiting.</p></h1>
- 	</center>
+		<p class="medium_text">
+		This was done in the Sublime Text editor.
+		</p>
+
+	<p class="large_text">
+	Thank you for visiting.
+	</p>
+
  </body>
 
 </html>
